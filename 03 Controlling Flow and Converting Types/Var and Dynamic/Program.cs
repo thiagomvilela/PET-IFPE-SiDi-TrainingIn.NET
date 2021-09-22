@@ -7,7 +7,8 @@ namespace Var_and_Dynamic
         static void Main(string[] args)
         {
             //Console.WriteLine("Hello World!");
-            VarExample.Example();
+            VarDynamicExample.Example01();
+            VarDynamicExample.Example02();
         }
     }
 }
