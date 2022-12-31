@@ -1,7 +1,6 @@
 <h1 align="center">
-  <img alt="IFPE-SiDi" src="./img/ifpe-sidi.png" />
+  <img alt="IFPE-SiDi" src="pet-.net-platform(logo).png" />
 </h1>
-
 
 <h1 align="center">Technological Extension Course: Training in .NET </h1>
 
